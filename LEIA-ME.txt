@@ -1,0 +1,14 @@
+COMO COLOCAR NO AR (GitHub Pages)
+
+1. Entre no github.com e clique em "New repository".
+2. Dê um nome, por exemplo: portfolio-ia. Deixe como Public e clique em "Create repository".
+3. Na página do repositório, clique em "uploading an existing file".
+4. Arraste o arquivo index.html e a pasta videos inteira. Espere todos os vídeos terminarem de subir.
+5. Clique em "Commit changes".
+6. Vá em Settings > Pages. Em "Branch", escolha "main" e a pasta "/ (root)". Clique em Save.
+7. Espere 1 ou 2 minutos. O endereço vai ser:
+   https://mjmmoli.github.io/portfolio-ia/
+
+Para atualizar depois: suba o arquivo novo por cima do antigo, com o mesmo nome.
+
+Os dados de contato, ferramentas e projetos ficam no começo do <script>, dentro do index.html (CONFIG, TOOLS e PROJECTS).
